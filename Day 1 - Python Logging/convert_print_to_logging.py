@@ -1,3 +1,11 @@
+"""
+Use logging in this example to print messages
+to a file called 'requests.log' in the
+following format
+
+> 2019-03-03 17:18:32,703 :: INFO :: Root :: Line No 1 :: This is the logging message!
+"""
+
 import requests
 import requests.exceptions
 

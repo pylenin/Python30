@@ -2,7 +2,7 @@ import logging
 import requests
 import requests.exceptions
 
-logging.basicConfig(filename="requests.log", format='%(name)s - %(asctime)s - %(message)s')
+logging.basicConfig(filename="requests.log", format='%(asctime)s :: %(levelname)s :: %(name)s :: Line No %(lineno)d :: %(message)s')
 
 def main():
     try:
