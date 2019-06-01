@@ -2,7 +2,7 @@
 
 ## Course Summary
 
-#Python30 is designed to help the beginners in Python to improve their skills and take them a notch further. This course is divided into videos and question sets. Within 30 days, you will subject yourself to varities of concepts, libraries and frameworks in Python. All of the materials will help you kickstart your search for a dream job in the field of Python. The course has been curated by taking into consideration the various Python topics that companies expect their candidates to be aware of. So join the course and get started.
+Python30 is designed to help the beginners in Python to improve their skills and take them a notch further. This course is divided into videos and question sets. Within 30 days, you will subject yourself to varities of concepts, libraries and frameworks in Python. All of the materials will help you kickstart your search for a dream job in the field of Python. The course has been curated by taking into consideration the various Python topics that companies expect their candidates to be aware of. So join the course and get started.
 
 ## Python Topics covered
 
