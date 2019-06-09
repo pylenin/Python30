@@ -1,0 +1,9 @@
+"""
+Provide your solutions for the questions below.
+The best solutions go into the #Python30 Hall of Fame.
+"""
+1. What date is 3 weeks and 4 days before Christmas?
+
+2. What is the time difference between January 1, 2019 11 AM
+   and May 20, 2020 22.30 PM? Mention both the days and time
+   in your solution.
