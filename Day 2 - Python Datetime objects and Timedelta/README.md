@@ -1,4 +1,4 @@
-# Day 1 - Understanding Python Datetime objects and Timedelta
+# Day 2 - Understanding Python Datetime objects and Timedelta
 
 ## Related Youtube video - https://youtu.be/B4X1gidJzTs
 ## Topics covered
