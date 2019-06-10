@@ -13,3 +13,10 @@ print("Difference in days.. ", (time_difference.days*24 + time_difference.second
 # Question is - what is the time difference, therefore my answer would be..
 print("Difference in hours ", time_difference.days*24 + time_difference.seconds/3600)
 print("Differene in seconds", time_difference.total_seconds())
+
+days = time_difference.days
+hours = divmod(time_difference.seconds, 3600)
+minutes  = hours[1]/60
+
+# Expected Output.
+print("Time difference is ", days, " days, " , hours[0] ,"hours and ", minutes , "mins")
