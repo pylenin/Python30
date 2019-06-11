@@ -1,5 +1,9 @@
-# 1. What date is 3 weeks and 4 days before Christmas?
 
+# Problem to solve!
+"""
+1. What date is 3 weeks and 4 days before Christmas?
+Solution provided by Sanjay Siddha
+"""
 
 from datetime import timedelta, date
 
