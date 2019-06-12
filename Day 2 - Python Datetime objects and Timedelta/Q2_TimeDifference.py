@@ -1,6 +1,8 @@
-# 2. What is the time difference between January 1, 2019 11 AM
-#    and May 20, 2020 22.30 PM? Mention both the days and time
-#    in your solution.
+"""
+2. What is the time difference between January 1, 2019 11 AM
+   and May 20, 2020 22.30 PM? Mention both the days and time
+   in your solution.
+"""
 
 from datetime import datetime, timedelta
 
