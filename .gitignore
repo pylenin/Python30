@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 .idea/	.idea/misc.xml
 .DS_Store/
+=======
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Python30.iml
+.idea/vcs.xml
+.idea/workspace.xml
+>>>>>>> c4d5289e9d6f56ccea91a608a0d0625836e9cb53
