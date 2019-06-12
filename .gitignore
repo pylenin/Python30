@@ -1,7 +1,2 @@
-
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/Python30.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/	.idea/misc.xml
+.DS_Store/
