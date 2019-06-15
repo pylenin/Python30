@@ -1,0 +1,9 @@
+1) Write a Python program to convert the current unix timestamp
+   string to readable date and time in the below format
+
+   Desired format - "June 15, 2019 7.30 PM"
+
+2) If you are living in New York, how sooner or later would you
+   be celebrating New year compared to someone living in India.
+
+   
